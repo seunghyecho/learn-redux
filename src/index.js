@@ -11,8 +11,10 @@ import rootReducer from "./modules";
 const container = document.getElementById("root");
 const root = createRoot(container);
 
-const store = createStore(rootReducer);
-console.log(store.getState());
+const store = createStore(
+  rootReducer,
+  window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+);
 
 root.render(
   <React.StrictMode>
