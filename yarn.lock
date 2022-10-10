@@ -1536,10 +1536,10 @@
     "schema-utils" "^3.0.0"
     "source-map" "^0.7.3"
 
-"@reduxjs/toolkit@^1.8.4":
-  "integrity" "sha512-IpFq1WI7sCYeLQpDCGvlcQY9wn70UpAM3cOLq78HRnVn1746RI+l3y5xcuOeVOxORaxABJh3cfJMxycD2IwH5w=="
-  "resolved" "https://registry.npmjs.org/@reduxjs/toolkit/-/toolkit-1.8.4.tgz"
-  "version" "1.8.4"
+"@reduxjs/toolkit@^1.8.6":
+  "integrity" "sha512-4Ia/Loc6WLmdSOzi7k5ff7dLK8CgG2b8aqpLsCAJhazAzGdp//YBUSaj0ceW6a3kDBDNRrq5CRwyCS0wBiL1ig=="
+  "resolved" "https://registry.npmjs.org/@reduxjs/toolkit/-/toolkit-1.8.6.tgz"
+  "version" "1.8.6"
   dependencies:
     "immer" "^9.0.7"
     "redux" "^4.1.2"
@@ -1749,10 +1749,10 @@
     "lodash" "^4.17.15"
     "redent" "^3.0.0"
 
-"@testing-library/react@^13.3.0":
-  "integrity" "sha512-DB79aA426+deFgGSjnf5grczDPiL4taK3hFaa+M5q7q20Kcve9eQottOG5kZ74KEr55v0tU2CQormSSDK87zYQ=="
-  "resolved" "https://registry.npmjs.org/@testing-library/react/-/react-13.3.0.tgz"
-  "version" "13.3.0"
+"@testing-library/react@^13.4.0":
+  "integrity" "sha512-sXOGON+WNTh3MLE9rve97ftaZukN3oNf2KjDy7YTx6hcTO2uuLHuCGynMDhFwGw/jYf4OJ2Qk0i4i79qMNNkyw=="
+  "resolved" "https://registry.npmjs.org/@testing-library/react/-/react-13.4.0.tgz"
+  "version" "13.4.0"
   dependencies:
     "@babel/runtime" "^7.12.5"
     "@testing-library/dom" "^8.5.0"
@@ -7374,10 +7374,10 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-18.2.0.tgz"
   "version" "18.2.0"
 
-"react-redux@^7.2.1 || ^8.0.2", "react-redux@^8.0.2":
-  "integrity" "sha512-nBwiscMw3NoP59NFCXFf02f8xdo+vSHT/uZ1ldDwF7XaTpzm+Phk97VT4urYBl5TYAPNVaFm12UHAEyzkpNzRA=="
-  "resolved" "https://registry.npmjs.org/react-redux/-/react-redux-8.0.2.tgz"
-  "version" "8.0.2"
+"react-redux@^7.2.1 || ^8.0.2", "react-redux@^8.0.4":
+  "integrity" "sha512-yMfQ7mX6bWuicz2fids6cR1YT59VTuT8MKyyE310wJQlINKENCeT1UcPdEiX6znI5tF8zXyJ/VYvDgeGuaaNwQ=="
+  "resolved" "https://registry.npmjs.org/react-redux/-/react-redux-8.0.4.tgz"
+  "version" "8.0.4"
   dependencies:
     "@babel/runtime" "^7.12.1"
     "@types/hoist-non-react-statics" "^3.3.1"
@@ -8718,10 +8718,10 @@
   dependencies:
     "minimalistic-assert" "^1.0.0"
 
-"web-vitals@^2.1.4":
-  "integrity" "sha512-sVWcwhU5mX6crfI5Vd2dC4qchyTqxV8URinzt25XqVh+bHEPGH4C3NPrNionCP7Obx59wrYEbNlw4Z8sjALzZg=="
-  "resolved" "https://registry.npmjs.org/web-vitals/-/web-vitals-2.1.4.tgz"
-  "version" "2.1.4"
+"web-vitals@^3.0.3":
+  "integrity" "sha512-8K6cl3alkVhwv7RQm3WAWFzvP9dBTH4CwOE7G3DfQDEnBJTdtNgX5XMqgE7aE79wac/kJ8fHWftUfH3AVxxbBw=="
+  "resolved" "https://registry.npmjs.org/web-vitals/-/web-vitals-3.0.3.tgz"
+  "version" "3.0.3"
 
 "webidl-conversions@^4.0.2":
   "integrity" "sha512-YQ+BmxuTgd6UXZW3+ICGfyqRyHXVlD5GtQr5+qjiNW7bF0cqrzX500HVXPBOvgXb5YnzDd+h0zqyv61KUD7+Sg=="
